@@ -3,7 +3,7 @@ import java.util.Map;  // Add this import
 import java.util.Stack;
 
 
-class 621TaskScheduler {
+class TaskScheduler621 {
 
   // Improved printStack method (avoids unnecessary copying)
   public static void printStack(Stack<String> stack) {
