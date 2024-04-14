@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SumOfLeftLeaves {
+public class SumOfLeftLeaves404 {
     static class TreeNode {
         int val;
         TreeNode left;
