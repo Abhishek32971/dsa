@@ -1,7 +1,6 @@
 public class test {
     public static void main(String[] args) {
-        for(char i='1';i<'9';i++){
-            System.out.println(i+"lskdfj");
-        }
+        int[] i={0,1,2,2,3,0,4,2};
+        System.out.println((i[0:5].length));
     }
 }
